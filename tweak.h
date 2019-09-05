@@ -8,6 +8,7 @@
 @property (nonatomic,copy) NSString * localizedSubtitle;
 @property (nonatomic,copy) NSString * bundleIdentifierToLaunch;
 @property (nonatomic, copy) SBSApplicationShortcutIcon *icon;
+@property (nonatomic, copy) NSDictionary* userInfo;
 @end
 
 @interface SBUIAppIconForceTouchControllerDataProvider : NSObject
