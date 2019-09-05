@@ -1,0 +1,9 @@
+Package: com.wh0ba.storage3d
+Name: storage3d
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Wh0ba <whappfanr@gmail.com>
+Author: Wh0ba <whappfanr@gmail.com>
+Section: Tweaks
