@@ -1,7 +1,7 @@
 Package: com.wh0ba.storage3d
 Name: storage3d
 Depends: mobilesubstrate
-Version: 0.2
+Version: 0.3
 Architecture: iphoneos-arm
 Description: 3D Touch the settings icon to see your available storage
 Maintainer: Wh0ba <whappfanr@gmail.com>

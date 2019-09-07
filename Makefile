@@ -1,6 +1,6 @@
 include $(THEOS)/makefiles/common.mk
 
-ARCHS = armv7 arm64
+ARCHS = armv7 arm64 arm64e 
 TARGET= iphone:clang:latest:9.0
 
 TWEAK_NAME = storage3d
