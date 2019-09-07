@@ -36,7 +36,7 @@ NSString* freeStorage();
 -(id)initWithTitle:(id)title subtitle:(id)arg2 image:(id)image badgeView:(id)arg4 handler:(id)arg5 {
 	if ([title isEqualToString:@"Free Storage"]) {
 		image = [[UIImage imageWithContentsOfFile:@"/Library/Application Support/Storage3D/storage3d.png"] imageWithRenderingMode:UIImageRenderingModeAlwaysTemplate];
-		}
+	}
 	
 	return %orig;
 }
@@ -93,5 +93,4 @@ NSString* freeStorage() {
 		
 	}
 }
-
 
